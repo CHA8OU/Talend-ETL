@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.relational="http:///orgomg/cwm/resource/relational.ecore">
+  <TalendMetadata:DatabaseConnection xmi:id="_eXgVwKoKEeuk8_jpG_RzxQ" name="ConnectToDW2" id="_WyhhYKoKEeuk8_jpG_RzxQ" label="ConnectToDW2" dataPackage="_eZfSwKoKEeuk8_jpG_RzxQ _eZfSwaoKEeuk8_jpG_RzxQ _eZfSwqoKEeuk8_jpG_RzxQ _eZfSw6oKEeuk8_jpG_RzxQ _eZfSxKoKEeuk8_jpG_RzxQ _eZfSxaoKEeuk8_jpG_RzxQ _eZfSxqoKEeuk8_jpG_RzxQ _eZfSx6oKEeuk8_jpG_RzxQ _eZfSyKoKEeuk8_jpG_RzxQ _eZfSyaoKEeuk8_jpG_RzxQ _eZfSyqoKEeuk8_jpG_RzxQ _eZfSy6oKEeuk8_jpG_RzxQ _eZfSzKoKEeuk8_jpG_RzxQ _eZfSzaoKEeuk8_jpG_RzxQ" DatabaseType="Oracle with SID" DriverClass="oracle.jdbc.OracleDriver" URL="jdbc:oracle:thin:@DESKTOP-NLJMO6F:1521:XE" dbVersionString="ORACLE_10" Port="1521" Username="chabou_aziz" Password="enc:system.encryption.key.v1:9yRBC+azSy2KVfE5kLtbZ289U8ywqiTxm7DzYpeIwCsomTs31Q+2F4JL" ServerName="DESKTOP-NLJMO6F" SID="XE" SqlSynthax="" StringQuote="" NullChar="" DbmsId="oracle_id" ProductId="ORACLE" AdditionalParams="" StandardSQL="true" SQLMode="false" UiSchema="">
+    <taggedValue xmi:id="_eXgVwaoKEeuk8_jpG_RzxQ" tag="Is Conn Need Reload" value="false"/>
+    <taggedValue xmi:id="_eYZGkKoKEeuk8_jpG_RzxQ" tag="package filter" value=""/>
+    <taggedValue xmi:id="_eYZGkaoKEeuk8_jpG_RzxQ" tag="Status" value=""/>
+    <taggedValue xmi:id="_eYZGkqoKEeuk8_jpG_RzxQ" tag="Version" value="0.1"/>
+    <taggedValue xmi:id="_eYZGk6oKEeuk8_jpG_RzxQ" tag="Purpose" value=""/>
+    <taggedValue xmi:id="_eYZGlKoKEeuk8_jpG_RzxQ" tag="Description" value=""/>
+    <taggedValue xmi:id="_eYZGlaoKEeuk8_jpG_RzxQ" tag="Author" value=""/>
+    <taggedValue xmi:id="_eYZGlqoKEeuk8_jpG_RzxQ" tag="otherParameter"/>
+    <taggedValue xmi:id="_eYvE0KoKEeuk8_jpG_RzxQ" tag="DB ProductName" value="Oracle"/>
+    <taggedValue xmi:id="_eYvE0aoKEeuk8_jpG_RzxQ" tag="DB ProductVersion" value="Oracle Database 10g Express Edition Release 10.2.0.1.0 - Production"/>
+    <taggedValue xmi:id="_eYvE0qoKEeuk8_jpG_RzxQ" tag="DB IdentifierQuoteString" value="&quot;"/>
+    <parameters xmi:id="_eXgVwqoKEeuk8_jpG_RzxQ" key="CONN_PARA_KEY_MAPRDB_TABLE_NS_MAPPING" value=""/>
+  </TalendMetadata:DatabaseConnection>
+  <orgomg.cwm.resource.relational:Schema xmi:id="_eZfSwKoKEeuk8_jpG_RzxQ" name="ANONYMOUS" dataManager="_eXgVwKoKEeuk8_jpG_RzxQ"/>
+  <orgomg.cwm.resource.relational:Schema xmi:id="_eZfSwaoKEeuk8_jpG_RzxQ" name="CHABOU_AZIZ" dataManager="_eXgVwKoKEeuk8_jpG_RzxQ"/>
+  <orgomg.cwm.resource.relational:Schema xmi:id="_eZfSwqoKEeuk8_jpG_RzxQ" name="CTXSYS" dataManager="_eXgVwKoKEeuk8_jpG_RzxQ"/>
+  <orgomg.cwm.resource.relational:Schema xmi:id="_eZfSw6oKEeuk8_jpG_RzxQ" name="DBSNMP" dataManager="_eXgVwKoKEeuk8_jpG_RzxQ"/>
+  <orgomg.cwm.resource.relational:Schema xmi:id="_eZfSxKoKEeuk8_jpG_RzxQ" name="DIP" dataManager="_eXgVwKoKEeuk8_jpG_RzxQ"/>
+  <orgomg.cwm.resource.relational:Schema xmi:id="_eZfSxaoKEeuk8_jpG_RzxQ" name="FLOWS_FILES" dataManager="_eXgVwKoKEeuk8_jpG_RzxQ"/>
+  <orgomg.cwm.resource.relational:Schema xmi:id="_eZfSxqoKEeuk8_jpG_RzxQ" name="FLOWS_020100" dataManager="_eXgVwKoKEeuk8_jpG_RzxQ"/>
+  <orgomg.cwm.resource.relational:Schema xmi:id="_eZfSx6oKEeuk8_jpG_RzxQ" name="HR" dataManager="_eXgVwKoKEeuk8_jpG_RzxQ"/>
+  <orgomg.cwm.resource.relational:Schema xmi:id="_eZfSyKoKEeuk8_jpG_RzxQ" name="MDSYS" dataManager="_eXgVwKoKEeuk8_jpG_RzxQ"/>
+  <orgomg.cwm.resource.relational:Schema xmi:id="_eZfSyaoKEeuk8_jpG_RzxQ" name="OUTLN" dataManager="_eXgVwKoKEeuk8_jpG_RzxQ"/>
+  <orgomg.cwm.resource.relational:Schema xmi:id="_eZfSyqoKEeuk8_jpG_RzxQ" name="SYS" dataManager="_eXgVwKoKEeuk8_jpG_RzxQ"/>
+  <orgomg.cwm.resource.relational:Schema xmi:id="_eZfSy6oKEeuk8_jpG_RzxQ" name="SYSTEM" dataManager="_eXgVwKoKEeuk8_jpG_RzxQ"/>
+  <orgomg.cwm.resource.relational:Schema xmi:id="_eZfSzKoKEeuk8_jpG_RzxQ" name="TSMSYS" dataManager="_eXgVwKoKEeuk8_jpG_RzxQ"/>
+  <orgomg.cwm.resource.relational:Schema xmi:id="_eZfSzaoKEeuk8_jpG_RzxQ" name="XDB" dataManager="_eXgVwKoKEeuk8_jpG_RzxQ"/>
+</xmi:XMI>

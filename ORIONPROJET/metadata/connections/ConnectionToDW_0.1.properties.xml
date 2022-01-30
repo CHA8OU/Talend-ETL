@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_5nSvk6oEEeuk8_jpG_RzxQ" id="_v7MdsKoEEeuk8_jpG_RzxQ" label="ConnectionToDW" version="0.1" statusCode="" item="_5nSvlaoEEeuk8_jpG_RzxQ" displayName="ConnectionToDW">
+    <author href="../../talend.project#_sugcEaoAEeuk8_jpG_RzxQ"/>
+    <additionalProperties xmi:id="_5nWZ8KoEEeuk8_jpG_RzxQ" key="created_product_fullname" value="Talend Open Studio for Data Integration"/>
+    <additionalProperties xmi:id="_5nWZ8aoEEeuk8_jpG_RzxQ" key="created_product_version" value="7.3.1.20200219_1130"/>
+    <additionalProperties xmi:id="_5nWZ8qoEEeuk8_jpG_RzxQ" key="created_date" value="2021-04-30T23:39:18.799+0100"/>
+    <additionalProperties xmi:id="_5nWZ86oEEeuk8_jpG_RzxQ" key="modified_product_fullname" value="Talend Open Studio for Data Integration"/>
+    <additionalProperties xmi:id="_5nWZ9KoEEeuk8_jpG_RzxQ" key="modified_product_version" value="7.3.1.20200219_1130"/>
+    <additionalProperties xmi:id="_5nWZ9aoEEeuk8_jpG_RzxQ" key="modified_date" value="2021-04-30T23:39:19.388+0100"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_5nSvlKoEEeuk8_jpG_RzxQ" path=""/>
+  <TalendProperties:DatabaseConnectionItem xmi:id="_5nSvlaoEEeuk8_jpG_RzxQ" property="_5nSvk6oEEeuk8_jpG_RzxQ" state="_5nSvlKoEEeuk8_jpG_RzxQ">
+    <connection href="ConnectionToDW_0.1.item#_5nSvkKoEEeuk8_jpG_RzxQ"/>
+  </TalendProperties:DatabaseConnectionItem>
+</xmi:XMI>

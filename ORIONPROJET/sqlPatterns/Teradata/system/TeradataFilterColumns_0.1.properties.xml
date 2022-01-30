@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_yPh0oKoAEeuk8_jpG_RzxQ" id="_yPexUKoAEeuk8_jpG_RzxQ" label="TeradataFilterColumns" version="0.1" item="_yPh0oqoAEeuk8_jpG_RzxQ">
+    <author href="../../../talend.project#_sugcEaoAEeuk8_jpG_RzxQ"/>
+    <additionalProperties xmi:id="_yPjp0KoAEeuk8_jpG_RzxQ" key="created_product_fullname" value="Talend Open Studio for Data Integration"/>
+    <additionalProperties xmi:id="_yPjp0aoAEeuk8_jpG_RzxQ" key="created_product_version" value="7.3.1.20200219_1130"/>
+    <additionalProperties xmi:id="_yPjp0qoAEeuk8_jpG_RzxQ" key="created_date" value="2021-04-30T23:09:51.341+0100"/>
+    <additionalProperties xmi:id="_yPkQ4KoAEeuk8_jpG_RzxQ" key="modified_product_fullname" value="Talend Open Studio for Data Integration"/>
+    <additionalProperties xmi:id="_yPkQ4aoAEeuk8_jpG_RzxQ" key="modified_product_version" value="7.3.1.20200219_1130"/>
+    <additionalProperties xmi:id="_yPkQ4qoAEeuk8_jpG_RzxQ" key="modified_date" value="2021-04-30T23:09:51.341+0100"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_yPh0oaoAEeuk8_jpG_RzxQ" path="Teradata/system"/>
+  <TalendProperties:SQLPatternItem xmi:id="_yPh0oqoAEeuk8_jpG_RzxQ" property="_yPh0oKoAEeuk8_jpG_RzxQ" state="_yPh0oaoAEeuk8_jpG_RzxQ" system="true" eltName="Teradata">
+    <content href="TeradataFilterColumns_0.1.item#/"/>
+  </TalendProperties:SQLPatternItem>
+</xmi:XMI>
